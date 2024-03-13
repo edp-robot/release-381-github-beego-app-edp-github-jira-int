@@ -1,0 +1,1 @@
+1. Application beego-app-edp-github-jira-int has been successfully deployed!!
